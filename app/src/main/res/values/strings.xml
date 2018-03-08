@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Ad</string>
+    <string name="title_activity_second_activiy">Interstitial</string>
+    <string name="msg_welcome">Welcome to Admob. Click on the below button to launch the Interstitial ad.</string>
+    <string name="btn_fullscreen_ad">Show Interstitial Ad</string>
+    <string name="btn_rewarded_video">Show Rewarded Video Ad</string>
+
+
+    <!-- TODO - add your ad unit Ids -->
+    <!-- AdMob ad unit IDs -->
+    <string name="admob_app_id">ca-app-pub-4603905447363288~2422588137</string>
+    <string name="banner_home_footer">ca-app-pub-4603905447363288/2183340011</string>
+    <string name="interstitial_full_screen">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="rewarded_video">ca-app-pub-4603905447363288/1404966036</string>
+
+
+
+    <string name="action_settings">Settings</string>
+    <string name="impossible_game">Impossible Game</string>
+    <string name="retry_button_text">Retry</string>
+    <string name="watch_video_button_text">Watch Video for 10 additional coins</string>
+    <string name="default_coin_text">Coins: 0</string>
+</resources>
